@@ -1,0 +1,5 @@
+DraftMate
+
+create a list of your priorities
+tick off as they are picked leaving only remaining
+
